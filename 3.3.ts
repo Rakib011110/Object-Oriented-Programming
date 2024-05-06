@@ -12,17 +12,6 @@ Type Guard হল একটি মেথড যা আমাদের কোড�
 2. How do you use typeof and in for type guards?
    - Answer: We can use typeof to check the type of a variable, and in to check if a property exists in an object.
 
-### Type Guard ব্যবহার করা Instance Of দিয়ে:
-
-#### বর্ণনা:
-Instance Of টাইপ গার্ড হল যা কোন অবজেক্ট নির্মাণের জন্য ব্যবহার করা হয়। 
-
-#### Interview Questions:
-1. What is the instanceof operator used for in TypeScript?
-   - Answer: The instanceof operator is used to check if an object is an instance of a specific class.
-
-2. How do you use instanceof for type guarding?
-   - Answer: We can use the instanceof operator to check if an object is an instance of a particular class.
 
 */
 
